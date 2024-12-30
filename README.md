@@ -1,0 +1,1 @@
+This is the homework 6-04 Docker part 2.
